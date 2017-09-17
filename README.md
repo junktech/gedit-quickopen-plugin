@@ -1,5 +1,5 @@
 # gedit-quickopen-plugin
-Customized version of Gedit's QuickOpen plugin.
+Customized version of Gedit's QuickOpen plugin. For Gedit version 3.18 and above.
 
 ## Added features
 - begin search on first letter entry (disabled auto search when dialog is shown)
