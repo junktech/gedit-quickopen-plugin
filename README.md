@@ -1,2 +1,2 @@
 # gedit-quickopen-plugin
-Modified version of Gedit's QuickOpen plugin
+Customized version of Gedit's QuickOpen plugin.
