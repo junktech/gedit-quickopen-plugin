@@ -9,10 +9,10 @@ Execute the following commands:
 git clone git://github.com/junktech/gedit-quickopen-plugin
 mkdir -p ~/.local/share/gedit/plugins
 mv gedit-quickopen-plugin/* ~/.local/share/gedit/plugins/
-
 ```
 
 ## 3. Activate plugin
 1. Start gedit
 2. Open Preferences > Plugins 
 3. Check to box next to "Quick open" on the list
+4. Press CTRL + ALT + O to open the search dialog
